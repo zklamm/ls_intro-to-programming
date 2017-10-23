@@ -1,0 +1,2 @@
+# Exception handling is managing potential errors in a predictable way using Ruby's reserved word "rescue".
+# This allows for the program to continue running instead of prematurely exiting due to an error.

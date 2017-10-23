@@ -1,0 +1,1 @@
+# The major difference between an Array and a Hash is that arrays are ordered lists, whereas hashes are groupings of key-value pairs.
